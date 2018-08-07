@@ -1,0 +1,41 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12;
+    font-weight: 700;
+    margin: 0 auto;
+    background-image: url("../images/background.jpg");
+    background-repeat: repeat;
+}
+#start {
+    font-size: 5rem;
+    padding: 50px;
+}
+footer {
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px;
+}
+#timeDiv, #questionDiv {
+    margin: 10px auto;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+h1 {
+    font-size: 3rem;
+    padding: 50px;
+    color: blue;
+}
+
+div {
+    text-align: center;
+}
+
+#timeDiv {
+    display: none;
+}
+
+#questionSubmit {
+    font-size: 5rem;
+    padding: 50px;
+}
